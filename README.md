@@ -1,9 +1,9 @@
 - 👋 ¡Hola! Soy @FelicidadSM
-- 📍 Tengo 25 años y vivo en Valencia.
-- 👀 Estoy aprendiendo desarrollo web.
+- 📍 Tengo 25 años y soy de Valencia.
+- 👀 Estoy aprendiendo desarrollo web Full-Stack.
 - 🌱 Actualmente estoy trabajando en un proyecto personal que pronto mostraré.
-- 💞️ Me gustaría colaborar/trabajar en una empresa con la que poder crecer profesionalmente y personalmente.
-- 📫 Puedes contactar conmigo en mi correo electrónico que es felicidad95@gmail.com
+- 💞️ Me gustaría colaborar/trabajar en una empresa en la que poder crecer tanto profesional como personalmente.
+- 📫 Puedes contactar conmigo a través de mi correo electrónico felicidad95@gmail.com
 - 🔎 https://www.linkedin.com/in/felicidadsm/
 
 <!---
